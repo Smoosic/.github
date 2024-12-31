@@ -1,6 +1,6 @@
 # Welcome to the Smoosic Project
 Most project work for Smoosic will be on the 
-[main repository](https://github.com/Smoosic/Smoosic). If you are interested in further disucssions, please head over there.
+[main repository](https://github.com/Smoosic/Smoosic). If you are interested in further discussions, please head over there.
 
 * Smoosic is a typescript/javascript music notation program that runs in the browser
 * SMO is a JSON-based file format. It stands for 'Serialized Musical Objects'.
