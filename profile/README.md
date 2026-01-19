@@ -1,7 +1,7 @@
 # Welcome to the Smoosic Project
 To see what Smoosic can do, here is the [Demo Application](https://smoosic.github.io/Smoosic/release/html/smoosic.html)
 
-Make sure too look through the library and load different types of scores.
+Make sure to look through the library and load different types of scores.
 
 Most project work for Smoosic will be on the 
 [main repository](https://github.com/Smoosic/Smoosic). If you are interested in further discussions, please head over there.
